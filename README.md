@@ -15,3 +15,12 @@ This repository includes two projects.
 ![2022-08-04_10-35-44](https://user-images.githubusercontent.com/45571159/182791814-b4042fd3-cc99-46fb-bae6-84ba4147f187.png)
 ![2022-08-04_10-36-10](https://user-images.githubusercontent.com/45571159/182791822-74c0b242-20c9-4c91-9e0e-5a86b9d767ef.png)
 ![2022-08-04_10-36-29](https://user-images.githubusercontent.com/45571159/182791843-867d0e4e-edee-489d-9c81-77ecceb20d98.png)
+
+#Preview of Blog Page
+![2022-08-05_10-49-23](https://user-images.githubusercontent.com/45571159/183029430-eed4b3bf-9df7-41d0-879a-8ee969b1de52.png)
+![2022-08-05_10-49-38](https://user-images.githubusercontent.com/45571159/183029441-0c508621-7656-42dc-82b6-bed4f3c48e38.png)
+![2022-08-05_10-50-01](https://user-images.githubusercontent.com/45571159/183029487-81d8a073-df25-497e-af64-f9729eef1313.png)
+![2022-08-05_10-50-16](https://user-images.githubusercontent.com/45571159/183029505-5f953b3f-f3c8-4621-99c9-f210f77e07fa.png)
+![2022-08-05_10-50-31](https://user-images.githubusercontent.com/45571159/183029513-74b770b6-eb23-4e73-bae8-0d64be64d6b1.png)
+![2022-08-05_10-50-58](https://user-images.githubusercontent.com/45571159/183029527-7e2a1f9b-4a6a-4180-85cd-2b5c8a18daae.png)
+
