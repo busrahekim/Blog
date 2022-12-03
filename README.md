@@ -5,7 +5,6 @@ This repository includes two projects.
 - Blog Page (NoteWeb)
 
 #Preview of Admin Panel
-![2022-08-04_10-33-33](https://user-images.githubusercontent.com/45571159/182791745-e5ac4852-7d31-4263-9b34-4fbe78040fa0.png)
 ![2022-08-04_10-34-00](https://user-images.githubusercontent.com/45571159/182791767-94783077-b396-46d3-9152-e95d126ba394.png)
 ![2022-08-04_10-34-24](https://user-images.githubusercontent.com/45571159/182791781-c16569b7-f64e-43a8-b0cc-5341eb1617bc.png)
 ![2022-08-04_10-34-38](https://user-images.githubusercontent.com/45571159/182791789-aef7944c-6bb2-4b23-a947-fe32aa54fccd.png)
